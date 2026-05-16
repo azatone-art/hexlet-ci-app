@@ -10,7 +10,7 @@ start:
 	npm start
 
 test:
-	npm testt
+	npm test
 
 lint:
 	npx eslint .
